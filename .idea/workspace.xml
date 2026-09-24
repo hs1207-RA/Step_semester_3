@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5784ac58-ebd1-445e-9456-419fe584d732" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/week1/class_problems/RockPaperScissorsGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week2/assignment_problems/ATMPinValidator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "#1 on feature/session__1",
+    "git-widget-placeholder": "feature/session__2",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/STEP/Step_semester_3",
     "nodejs_package_manager_path": "npm"
